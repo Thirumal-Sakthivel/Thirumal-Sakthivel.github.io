@@ -1,0 +1,24 @@
+.about_h1 {
+  text-transform: none;
+  font-weight: 400;
+  font-size:26px;
+  margin-top: 20px;
+  margin-bottom: 5px;
+  line-height: 32px;
+}
+
+.about_h2 {
+  text-transform: none;
+  font-weight: 400;
+  font-size:19px;
+  margin-bottom: 5px;
+  line-height: 24px;
+}
+
+.about_h3 {
+  text-transform: none;
+  font-weight: 400;
+  font-size:16px;
+  margin-bottom: 5px;
+  line-height: 24px;
+}

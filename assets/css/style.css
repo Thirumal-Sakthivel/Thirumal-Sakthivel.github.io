@@ -461,7 +461,7 @@ SOCIAL ICON
 
 .navbar-custom,
 .navbar-custom .dropdown-menu {
-    background: #fff;
+    background: #283e4a;
     padding: 0;
 }
 
@@ -497,7 +497,7 @@ SOCIAL ICON
 }
 
 .navbar-custom .navbar-nav > li > a{
-    color: #282828;
+    color: #fff;
     font-size: 14px;
     font-weight: 700;
     padding-top: 20px;
