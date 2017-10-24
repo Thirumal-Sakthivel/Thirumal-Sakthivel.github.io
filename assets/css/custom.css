@@ -5,6 +5,7 @@
   margin-top: 20px;
   margin-bottom: 5px;
   line-height: 32px;
+  color: #2c3e50;
 }
 
 .about_h2 {
@@ -13,6 +14,7 @@
   font-size:19px;
   margin-bottom: 5px;
   line-height: 24px;
+  color: #2c3e50;
 }
 
 .about_h3 {
@@ -21,4 +23,24 @@
   font-size:16px;
   margin-bottom: 5px;
   line-height: 24px;
+  color: #2c3e50;
+}
+
+.card_style {
+  box-shadow: 0 0 8px #333;
+  border-radius: 1.25rem;
+  padding: 10px;
+}
+
+.tag_style {
+  padding: .4em .5em;
+  color: #39739d;
+  background-color: #E1ECF4;
+  border-color: transparent;
+  font-size: 10px;
+}
+
+.title_color {
+  color: #2c3e50;
+  text-transform: none;
 }
