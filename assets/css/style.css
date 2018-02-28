@@ -246,10 +246,6 @@ button:focus {
 
 
 /*IMAGES*/
-img {
-    width: 100%;
-}
-
 hr {
     margin-top: 15px;
     margin-bottom: 15px;
@@ -432,22 +428,10 @@ SOCIAL ICON
 
 /* === NAVIGATION === */
 .header {
-    border-bottom: 1px solid #eee;
     position: relative;
     width: 100%;
     z-index: 998;
-    padding-bottom: 1px;
     background: #fff;
-}
-
-.header::after {
-    border-bottom:1px solid #eee;
-    width: 100%;
-    position: absolute;
-    content: "";
-    height: 2px;
-    bottom: 1px;
-    left: 0;
 }
 
 .navbar-custom {
@@ -463,6 +447,7 @@ SOCIAL ICON
 .navbar-custom .dropdown-menu {
     background: #283e4a;
     padding: 0;
+    height: 90px;
 }
 
 .navbar-custom ul li a span{
@@ -1672,6 +1657,10 @@ Icon for all respective meta
     margin-bottom: 20px;
     text-align: center;
     display: block;
+}
+
+.hobby-list:hover {
+  background-color: #68c3a3;
 }
 
 .hobby-list span:nth-child(4),
